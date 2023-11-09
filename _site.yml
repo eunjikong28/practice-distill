@@ -3,6 +3,7 @@ title: "Eunji Kong's Program Plan"
 description: |
   Eunji Kong's Program Plan
 output_dir: "docs"
+theme: program_plan-theme.css
 navbar:
   right:
     - text: "Home"
